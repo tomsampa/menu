@@ -1,0 +1,7 @@
+br/com/gft/enumeration/DishType.class
+br/com/gft/service/DishService.class
+br/com/gft/model/Dish.class
+br/com/gft/model/Order.class
+br/com/gft/enumeration/TimeOfDayType.class
+br/com/gft/app/Application.class
+br/com/gft/repository/DishRepository.class
